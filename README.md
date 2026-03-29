@@ -1,7 +1,7 @@
 # Report House-1
 
 |  Nº  | Points | Project | [arakhurs](https://profile.intra.42.fr/users/arakhurs) | [davihako](https://profile.intra.42.fr/users/davihako) | [segambar](https://profile.intra.42.fr/users/segambar) | [rmesropy](https://profile.intra.42.fr/users/rmesropy) | [armelkon](https://profile.intra.42.fr/users/armelkon) | [dmanukya](https://profile.intra.42.fr/users/dmanukya) | [ssaghate](https://profile.intra.42.fr/users/ssaghate) | [aelaryan](https://profile.intra.42.fr/users/aelaryan) |
-| :--: | :--: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
+| :--: | :--: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | ⏰ | For | Hours per week | 5 | 2 | 25 | 23 | 17 | 15 | 20 | 7 |
 | ⏰ | MAX | Deadline | outer | outer | outer| outer | ex06 | ex05+inc | ex04+net |  ex04|  ex04| ex04 | ex03+philo | ex03+philo | ex02+1porj | ex03 | ? |
 | 👔 | House | Roles | Team lead - 🏆 Captain | Evaluation lead - 📊 Scorekeeper | Committee representative - 🗳 Councilor | Communication lead - 🤝 Envoy | Creative director - 🎨 Herald | Activity lead - 🎯 Questkeeper  | PIS manager - 📝 Chronicler | Productivity lead - 🧠 Strategist |
