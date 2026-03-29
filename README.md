@@ -7,8 +7,8 @@
 | 👔 | House | Roles | Team lead - 🏆 Captain | Evaluation lead - 📊 Scorekeeper | Committee representative - 🗳 Councilor | Communication lead - 🤝 Envoy | Creative director - 🎨 Herald | Activity lead - 🎯 Questkeeper  | PIS manager - 📝 Chronicler | Productivity lead - 🧠 Strategist |
 | 1 | 292 | libft | 🌐 | 🌐 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 2 | 292 | gnl | 🌐 | 🌐 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 3 | 292 | ft_prinf | 🌐 | 🌐 | ✅ | ✅ | ✅ | ✅ | ✅ | 🆚 |
-| 4 | 268 | push_swap | 🌐 | 🌐 | ✅ | ✅ | 🆚 | 🆚 | 🆚 | 🆚 |
+| 3 | 292 | ft_prinf | 🌐 | 🌐 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 4 | 268 | push_swap | 🌐 | 🌐 | ✅ | ✅ | ✅ | 🆚 | ✅ | 🆚 |
 | 🚦 | 842 - 1310 + PyM0 | EX 02 | 🌐 | 🌐 | ✅ | 🆚 | 🆚 | 🆚 | 🆚 | 🆚 |
 | 5 | 126 | b2br | 🌐 | 🌐 | ✅ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 6.0 | 0 | PY M 00 | 🌐 | 🌐 | ✅ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
@@ -40,19 +40,20 @@
 | 🚦 | 2048 | EX 06 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 18 | 500 | ft_transcendence | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 19 | 500 | 42 Resume | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
-| 🏁 | 10646 | SUM | 2142 | 0 | 3011 | 1144 | 876 | 876 | 876 | 584
-| 20 | 2142 | Intership | 2142 |  |
-| 🏆 | Total | Outer |  |  |
+| 🏁 | 10646 | SUM | 2142 | 0 | 3011 | 1144 | 1144 | 876 | 1144 | 876 |
+| 20 | 2142 | Intership | 2142 |
+| 🏆 | Total | Outer | 2142 |
 
 
-### Total points for house - 9367
+### Total points for house - 99927
 | Event | Point |
 |:-----:|:-----:|
 | Opening | 2000 |
-| Debats | 2452 |
-| Quiz |  |
+| Debats | 2452 + 1042 + 0 | rmesropy
+| Quiz H 7 | ? | dmanukya
 
-| Coding Challenge |  |
+| Coding Challenge H 1 |  |
+
 | Game Day |  |
 | The Brainest |  |
 | W?W?W? |  |
@@ -63,34 +64,29 @@
 | Activity | Data | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | :-: | :-----: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: |
 | 📣 | Meeting | Opening Ceremony 🏰 |  |  |  |  |  |  |
-| 📝 | Evaluations |  |  |  |  |  |  |  |
-| 🌐 ✅ | Pj/Ex Success |  |  |  |  |  |  |  |
-| 🌐 ❌ | Pj/Ex Fails |  |  |  |  |  |  |  |
+| 📝 | Evaluations |  |  |  | segambar 3️⃣ | segambar 3️⃣ rmesropy 1️⃣ | armelkon 1️⃣ | segambar 5️⃣ |
+| 🌐 ✅ | Pj/Ex Success |  |  | segambar PM 01 |  | segambar PM 02 | davihako CPP 04 | segambar PM 03 |
+| 🌐 ❌ | Pj/Ex Fails |  | rmesropy PM 00 |  | segambar PM 02 |  |  |  |
 
 
 ## Week 23.03-29.03
 | Activity | Data | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | :-: | :-----: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: |
-| 📣 | Meeting |  | Debates Week 📑 | House 7 Feast |  |  |  |  |
-| 📝 | Evaluations |  |  |  |  |  |  |  |
-| 🌐 ✅ | Pj/Ex Success |  |  |  |  |  |  |  |
-| 🌐 ❌ | Pj/Ex Fails |  |  |  |  |  |  |  |
+| 📣 | Meeting |  | Debates 1 📑 | House 7 Feast |  | Debates 2 📑 |  |  |
+| 📝 | Evaluations | ssaghate 2️⃣ |  | armelkon 1️⃣ | armelkon 1️⃣ dmanukya 1️⃣ |  |  |  |
+| 🌐 ✅ | Pj/Ex Success |  | segambar PM 04 | ssaghate push_swap |  | armelkon push_swap |  | aelaryan ft_printf |
+| 🌐 ❌ | Pj/Ex Fails |  | armelkon push_swap |  |  |  |  |  |
 
-## Week 29.03-04.04
-| Activity | Data | 29 | 30 | 31 | 01 | 02 | 03 | 04 |
+## Week 30.03-05.04
+| Activity | Data | 30 | 31 | 01 | 02 | 03 | 04 | 05 |
 | :-: | :-----: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: |
-| 📣 | Meeting |  | Debates Week 📑 | House 7 Feast |  |  |  |  |
+| 📣 | Meeting | Debates Final 📑 |  |  |  |  |  |  |
 | 📝 | Evaluations |  |  |  |  |  |  |  |
 | 🌐 ✅ | Pj/Ex Success |  |  |  |  |  |  |  |
 | 🌐 ❌ | Pj/Ex Fails |  |  |  |  |  |  |  |
 
 ## Week 05.04-11.04
-| Activity | Data | 05 | 06 | 07 | 08 | 09 | 10 | 11 |
-| :-: | :-----: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: |
-| 📣 | Meeting | Opening Ceremony 🏰 |  |  |  |  |  |  |
-| 📝 | Evaluations | kgalstya 1️⃣ maavalya 1️⃣ apatvaka 1️⃣ dgrigor2 1️⃣ vapoghos 1️⃣ asmkrtch 1️⃣ | kgalstya 1️⃣ maavalya 2️⃣ apatvaka 1️⃣ dgrigor2 1️⃣ | maavalya 1️⃣ ganersis 2️⃣ apatvaka 1️⃣ asmkrtch 1️⃣ | arakhurs 1️⃣ kgalstya 1️⃣ haaghaja 1️⃣ | vapoghos 1️⃣ | haaghaja 1️⃣ vcharchy 2️⃣ | ganersis 1️⃣ |
-| 🌐 ✅ | Pj/Ex Success | kgalstya CPP_00 msimonya libft |  | haaghaja b2br | kgalstya CPP_01 vapoghos b2br | mamusaye Inception apatvaka Ex02 vcharchy ft_printf|  | ganersis so_long |
-| 🌐 ❌ | Pj/Ex Fails |  |  | kgalstya CPP_01 ganersis so_long |  | haaghaja Ex02 |  | ganersis minitalk |
+
 
 ## May
 | Name | Avilable | Unavilable |
