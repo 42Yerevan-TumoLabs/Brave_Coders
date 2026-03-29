@@ -45,7 +45,7 @@
 | 🏆 | Total | Outer | 2142 |
 
 
-### Total points for house - 99927
+### Total points for house + Events - 10337 + 5494 = 15831
 | Event | Point |
 |:-----:|:-----:|
 | Opening | 2000 |
